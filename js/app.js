@@ -1,6 +1,14 @@
 const age = parseInt(prompt("How old are you?"));
 
+true || true == true
+false || true == true
+true || false == true
+false || false == false
 
+true && true == true
+false && true == false
+true && false == false
+false && false == false
 
 if(isNaN(age) || age < 0){
     /// condition === true
