@@ -1,8 +1,9 @@
-const age = 96;
-function claculateKrAge(ageOForeingner){
-    return ageOForeingner + 2;
+const age = parseInt(prompt("How old are you?"));
+
+
+if(isNaN(age)){
+    /// condition === true
+    console.log("Please write a number");
+}else {
+    console.log("Thank you for writtion your age");
 }
-
-const krAge = claculateKrAge(age);
-
-console.log(krAge);
