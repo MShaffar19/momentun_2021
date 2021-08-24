@@ -1,24 +1,25 @@
 const calculator = {
-    add : function(a , b){
-        console.log(a+b);
+    plus : function(a , b){
+        return a+b;
     },
     minus : function(a , b){
-        console.log(a - b);
+        return a - b;
     },
-    multiply : function(a , b){
-        console.log(a * b);
+    times : function(a , b){
+        return a * b;
     },
-    division : function(a,b){
-        console.log(a / b);
+    divide : function(a,b){
+        return a / b;
     },
     power : function(a,b){
-        console.log( a ** b);
+        return a ** b;
     }
 
 }
 
-calculator.add(1,2);
-calculator.minus(2 , 1);
-calculator.multiply(2 , 1);
-calculator.division(2 , 1);
-calculator.power(2 , 3);
+const plusResult = calculator.plus(2,3);
+const minusResult = calculator.plus(plusResult, 10);
+const timesResult = calculator.plus(10,minusResult);
+const divedeResult = calculator.plus(timesResult, plusResult);
+const powerResult = calculator.plus(divedeResult, minusResult);
+
