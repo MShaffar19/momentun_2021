@@ -1,3 +1,26 @@
-.hidden {
+.hidden{
     display: none;
 }
+body{
+    font-family: 'Baloo Tammudu 2', 'Noto Sans KR', sans-serif; 
+    -ms-user-select: none; 
+    -moz-user-select:none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+#bgImage{
+    position:fixed;
+    top:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    filter: brightness(50%);
+}
+
