@@ -9,7 +9,7 @@
 
 ### 🎞Screen
 
-![Front](./Front/ezgif.com-gif-maker (1).gif)
+![Front](https://github.com/bjl0615/momentun_2021/blob/main/img/ezgif.com-gif-maker%20(1).gif)
 
 ### 👟tool to run
 
