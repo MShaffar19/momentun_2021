@@ -2,11 +2,10 @@
 # 🔊 Table of Contents
 
 - [🎞Screen](#screen)
-- [👟tool to run](tool-to-run)
-- [🌐API address](API-address)
-- [📖Web link](Web-link)
-- [📜Reference](Reference)
-- [🖥Web support](Web-support)
+- [👟tool to run](#tool-to-run)
+- [🌐API address](#api-address)
+- [📖Web Link](#web-link)
+- [🖥Web support](#web-support)
 - [🌏Web Support](#web-support)
 
 ### 🎞Screen
@@ -27,7 +26,7 @@ Development Environment Version
 
 # [`🔗`](https://openweathermap.org/current)
 
-### 📜Reference
+### 📖Web Link
 
 :school: [`nomadcoders`](https://nomadcoders.co/)
 
