@@ -5,7 +5,6 @@
 - [👟tool to run](#tool-to-run)
 - [🌐API address](#api-address)
 - [📖Web Link](#web-link)
-- [🖥Web support](#web-support)
 - [🌏Web Support](#web-support)
 
 ### 🎞Screen
