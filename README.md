@@ -18,7 +18,7 @@ Development Environment Version
 - Git -v 2.31.1
 
 ```sh
-    windows:  ALT + B
+    windows:   ALT + B
 ```
 
 ### 🌐API address
