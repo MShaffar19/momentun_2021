@@ -14,7 +14,7 @@
 ### 👟tool to run
 
 Development Environment Version
-- Visual Studio code -v1.59
+- Visual Studio Code -v1.59
 - Git -v 2.31.1
 
 ```sh
