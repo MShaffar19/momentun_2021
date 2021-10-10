@@ -15,7 +15,7 @@
 
 Development Environment Version
 - Visual Studio Code -v1.59
-- Git -v 2.31.1
+- Git -v  2.31.1
 
 ```sh
     windows:   ALT + B
